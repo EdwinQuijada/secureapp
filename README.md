@@ -6,4 +6,4 @@ Este es el repositorio de la landing page de SecureApp, una app ficticia de segu
 
 Puedes ver la landing page en GitHub Pages aquí:
 
-[https://TU_USUARIO.github.io/NOMBRE_REPO/](https://TU_USUARIO.github.io/NOMBRE_REPO/)
+[https://medardos.github.io/secureapp/](https://medardos.github.io/secureapp/)
